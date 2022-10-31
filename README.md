@@ -1,5 +1,9 @@
-# public-wifi-seoul
-Open API 활용, JSP/JAVA 연습, SQL 응용을 위한
+# SEOUL PUBLIC WIFI
+22.10.31
+
+Open API, JSP/JAVA 연습, SQL 응용을 위한 프로젝트
 
 ### ERD
-![image](https://user-images.githubusercontent.com/87344625/173329857-fa490ca1-1559-486b-9bea-03ab83ff051e.png)
+
+### ![Screen Shot 2022-10-31 at 8.02.10 PM](../images/README/Screen Shot 2022-10-31 at 8.02.10 PM.png)
+
